@@ -3,19 +3,19 @@ Facemask Detection in Google Colab with a YOLO network (Darknet) and a faster R-
 
 
 ## Setup and execution YOLO:
-1) Create a Folder in your Ondrive named yolov3
+1) Create a Folder in your Google Drive named yolov3
 2) Download a Dataset ([Kaggle](https://www.kaggle.com/andrewmvd/face-mask-detection?select=annotations), [Moxa3K](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7382322/))
 3) Execute the jupyter Notebook 
 4) For Testing execute `detection_utils.py` or for a detection on a video execute `detect_video.py`
 You can use `video_converter.py` to create a Dataset from the Video, a video to images or images to a video.
 
 ## Setup and execution PyTorch [Source](https://github.com/adoskk/KaggleFaceMaskDetection):
-1) Create a Folder in your Onedrive named rcnn and upload the dataset as a zip.
+1) Create a Folder in your Google Drive named rcnn and upload the dataset as a zip.
 2) Download a Dataset ([Kaggle](https://www.kaggle.com/andrewmvd/face-mask-detection?select=annotations), [Moxa3K](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7382322/))
 3) Execute the jupyter Notebook 
 
 ## Pretrained Weights:
-There are already pretrained weights of the YOLO network and the faster-RCNN network trained on the Kaggle Dataset (Methode same as described in the Report)
+There are already pretrained weights of the [YOLO](https://drive.google.com/file/d/1-9qmYOfizzTBGJA74X7Lk-xVBFHhGDgD/view?usp=sharing) (and [config file](https://drive.google.com/file/d/1XQjaqDd8TasnUdSJiGcxRzGrl0FyVZqx/view?usp=sharing)) network and the [faster-RCNN network](https://drive.google.com/file/d/1-sLAz8Nql7adqtw37BXlSxpcFgMc4MHF/view?usp=sharing) trained on the Kaggle Dataset (Methode same as described in the Report)
 
 ## Results:
 All results and problems are stated in the [Report](report.pdf)
