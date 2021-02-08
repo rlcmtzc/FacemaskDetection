@@ -66,3 +66,56 @@ All results and problems are stated in the [Report](report.pdf)
                       create_result_txt=<True/False> #create result txt files for later map Calculation
                      )
         ```
+        
+# Sources
+* AlexeyAB. Yolo v4, v3 and v2 for windows and linux. https://github.com/AlexeyAB/
+darknet. Accessed: 27.08.2020.
+
+* Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola.
+Dive into deep learning. https://d2l.ai/chapter_computer-vision/anchor.html#
+intersection-over-union, 2020.
+
+* Ross B. Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik. Rich feature hierarchies
+for accurate object detection and semantic segmentation. CoRR, abs/1311.2524, 2013.
+
+* Google. Colab. https://colab.research.google.com/notebooks/intro.ipynb. Accessed: 27.08.2020.
+
+* Google. Tensorflow. https://www.tensorflow.org/. Accessed: 14.01.2021.
+
+* Matthias De Lange, Rahaf Aljundi, Marc Masana, Sarah Parisot, Xu Jia, Ales Leonardis,
+Gregory Slabaugh, and Tinne Tuytelaars. Continual Learning: A Comparative Study on
+How to Defy Forgetting in Classification Tasks. arXiv CoRR, abs/1909.08383, 2019.
+
+* Larxel. Face mask detection. https://www.kaggle.com/andrewmvd/
+face-mask-detection?select=annotations. Accessed: 01.12.2020.
+
+* Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan,
+Piotr Doll´ar, and C. Lawrence Zitnick. Microsoft COCO: Common Objects in Context. In
+Proceedings of the IEEE European Conference on Computer Vision (ECCV), Z¨urich, 2014.
+
+* PyTorch. Pytorch. https://pytorch.org/. Accessed: 14.01.2021.
+
+* Joseph Redmon, Santosh Kumar Divvala, Ross B. Girshick, and Ali Farhadi. You only look
+once: Unified, real-time object detection. CoRR, abs/1506.02640, 2015.
+
+* Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. Faster r-cnn: Towards real-time
+object detection with region proposal networks, 2016.
+
+* Rohith Gandhi. R-CNN, Fast R-CNN, Faster R-CNN, YOLO Object Detection Algorithms.
+https://bit.ly/38es4Jb, 2018. Accessed: 01.12.2020.
+
+* Biparnak Roy, Subhadip Nandy, Debojit Ghosh, Debarghya Dutta, Pritam Biswas, and
+Tamodip Das. Moxa: A deep learning based unmanned approach for real-time monitoring of people wearing medical masks. https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC7382322/. Accessed: 14.01.2021.
+
+* Tensorflow. Tensorflow Detection Model Zoo. https://github.com/tensorflow/models/
+blob/master/research/object_detection/g3doc/detection_model_zoo.md. Accessed:
+12.01.2021.
+
+* Zhongyuan Wang, Guangcheng Wang, Baojin Huang, Zhangyang Xiong, Qi Hong, Hao Wu,
+Peng Yi, Kui Jiang, Nanxi Wang, Yingjiao Pei, Heling Chen, Yu Miao, Zhibing Huang, and
+Jinbi Liang. Masked face recognition dataset and application, 2020.
+
+* Mengliu Zhao. Face Mask Detection using Faster RCNN. https://github.com/adoskk/
+KaggleFaceMaskDetection. Accessed: 14.01.2021.
+
