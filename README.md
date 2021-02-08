@@ -20,12 +20,17 @@ There are already pretrained weights of the YOLO network and the faster-RCNN net
 ## Results:
 All results and problems are stated in the [Report](report.pdf)
 ### Quantitative Results:
-![MAP](images/map.png?raw=true "MAP of the trained Networks")
-![MAP](images/tpfppng.PNG?raw=true "True and False Positive Rate")
+![MAP](images/map.png?raw=true "MAP of the trained Networks")  
+
+![MAP](images/tpfppng.PNG?raw=true "True and False Positive Rate")  
+
 ### Qualitative Results:
-![MAP](images/mask1.png?raw=true)
-![MAP](images/mask2.png?raw=true)
-![MAP](images/mask3.png?raw=true)
+![MAP](images/mask1.png?raw=true)  
+
+![MAP](images/mask2.png?raw=true)  
+
+![MAP](images/mask3.png?raw=true)  
+
 
 
 
