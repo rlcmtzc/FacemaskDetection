@@ -1,5 +1,5 @@
 # FacemaskDetection
-Facemask Detection in Google Colab with a YOLO network (Darknet) and a faster R-CNN Network (PyTorch)
+Facemask Detection in Google Colab with a YOLO network (Darknet) and a faster R-CNN Network (PyTorch). 3 Classes get detected: correctly worn mask, incorrectly worn mask and no worn mask.
 
 
 ## Setup and execution YOLO:
